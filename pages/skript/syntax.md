@@ -14,8 +14,7 @@ Syntax defines the way to write code with Skript, if you use invalid syntax, you
 Let's use the following syntax as an example:
 
 ```vb
-make %players% (say|send [the] message[s]) %strings%
-force %players% to (say|send [the] message[s]) %strings%
+(force|make) %players% [to] (say|send [the] message[s]) %strings%
 ```
 
 As you can see, there are multiple syntaxes. You can use either syntax you want, let's learn how to read it!
