@@ -23,6 +23,8 @@ Essentials contains tons of useful commands, [here](https://essinfo.xeya.me/perm
 
 This will teach you how to use EssentialsSpawn on your Minehut server!
 
+<Hint severity="error">You must have the EssentialsSpawn plugin installed, or else it won't work!</Hint>
+
 #### HOW TO SET UP SPAWN
 
 First of all, make sure you are OP _\(follow_ [_this_](/faq/ingame/op) tutorial if you don't know how\), when you are OP, run **/setspawn** ingame to set your spawn point and now you and your players can use **/spawn** to teleport to your new spawnpoint.
