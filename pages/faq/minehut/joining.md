@@ -29,3 +29,7 @@ You can connect to a Minehut server by entering the server IP on your servers li
 <Hint severity="info">
 Note, when joining directly, if the server is not online or you've typed in the server name wrong, you'll be brought to the main Minehut lobby.
 </Hint>
+
+<Hint severity="info">
+Another note, is that you can't direct connect to minehut servers in Bedrock, you have to join <inlineCode>bedrock.minehut.com</inlineCode>, then <inlineCode>/join (ServerName)</inlineCode>.
+</Hint>
