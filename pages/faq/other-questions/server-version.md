@@ -5,9 +5,12 @@ name: faq/other-questions/server-version
 
 # Server Version
 
-## 1.16
+## Overview
 
-All Minehut servers run _\(PaperSpigot\)_ 1.16 servers. This will change with every new Minecraft update _\(however, it may take a few days before Minehut fully updates\)_. This does not mean older clients are unable to join your server _\(see below\)_.
+Currently, Minehut allows support for regular Spigot and PaperSpigot 1.16 and 1.17 servers. You can change the server version anytime in the server panel settings in the **Appearance** tab in the server dashboard.
+
+<Hint severity="warning">NOTE: Spigot may cause plugins not to work, so we recommend choosing PaperSpigot.</Hint>
+<Hint severity="error">If you use a 1.16 server, you can't use 1.17 features.</Hint>
 
 ## ALLOWING OLDER CLIENTS TO JOIN
 
